@@ -16,7 +16,7 @@ python taschenrechner.py
 3. Rechenart auswählen (+, -, *, /)
 4. Auf **calc** klicken
 
-## Bekannte Einschränkungen
+## Einschränkungen
 - Keine Dezimalzahlen
 - Division durch 0 wird nicht abgefangen
 
