@@ -1,5 +1,5 @@
 # Taschenrechner-GUI-mit-Python
-Python Taschenrechner mit grafischer Oberfläche. Klein gehalten, macht aber seinen Job.
+Python Taschenrechner mit grafischer Oberfläche (GUI). Klein gehalten, macht aber seinen Job.
 
 ## Voraussetzungen
 - Python 3.x muss installiert sein
@@ -10,17 +10,5 @@ Python Taschenrechner mit grafischer Oberfläche. Klein gehalten, macht aber sei
 python taschenrechner.py
 ```
 
-## Benutzung
-1. Erste Zahl eingeben
-2. Zweite Zahl eingeben  
-3. Rechenart auswählen (+, -, *, /)
-4. Auf **calc** klicken
-
 ## Einschränkungen
-- Keine Dezimalzahlen
-- Division durch 0 wird nicht abgefangen
-
-## Geplante Verbesserungen
-- Unterstützung für Dezimalzahlen
-- Fehlerbehandlung bei Division durch 0
-- Besseres Design
+- Keine Klammernrechnungen (z.B. 2*(2+3) funktioniert nicht)
